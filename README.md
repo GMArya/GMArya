@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating fun software
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me ...
+- 📫 aishwaryaofficial99@gmail.com
 
 <!---
 GMArya/GMArya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
